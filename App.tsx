@@ -13,9 +13,7 @@ import BlastingScreen from './src/screen/blasting';
 function App(): React.JSX.Element {
 
   return (
-    <SafeAreaView>
-      <BlastingScreen />
-    </SafeAreaView>
+    <BlastingScreen />
   );
 }
 
